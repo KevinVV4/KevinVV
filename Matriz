@@ -599,3 +599,10 @@ void __fastcall TForm2::Button19Click(TObject *Sender)
 	cargarCaracol(StringGrid1, fa, fb, ca, cb, k);
 }
 //---------------------------------------------------------------------------
+
+
+
+
+SIGNOS	"	#	$	%	&	'	(	)	*	+	,	-	.	/
+
+=	>	? 	@	[	\	]	^	_	`	{	|	}	~
